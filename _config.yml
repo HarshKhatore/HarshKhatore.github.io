@@ -16,7 +16,7 @@
 title: HK Blog
 email: khatore.harsh73@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	A place to express myself.
+ A place to express myself.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://harshkhatore.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: harshkhatore
